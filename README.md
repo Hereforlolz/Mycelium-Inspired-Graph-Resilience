@@ -26,11 +26,11 @@ Ever wondered how mushrooms create incredibly resilient networks that survive da
 
 Traditional distributed systems rely on centralized control and static configurations—creating single points of failure and limiting adaptability. But mycelium networks are nature's masters of resilience, self-organization, and intelligent resource distribution.
 
-Our implementation demonstrates a graph database that **thinks like a fungus**: automatically healing from failures, finding optimal paths dynamically, and evolving its structure based on real-world usage patterns.
+My implementation demonstrates a graph database that **thinks like a fungus**: automatically healing from failures, finding optimal paths dynamically, and evolving its structure based on real-world usage patterns.
 
 ## The Mycelium Inspiration
 
-Mycelium—the vast underground network of fungal threads—serves as our biological blueprint. These natural networks exhibit four key properties we've translated into computational advantages:
+Mycelium—the vast underground network of fungal threads—serves as my biological blueprint. These natural networks exhibit four key properties I've translated into computational advantages:
 
 | Biological Principle | Database Implementation |
 |---------------------|------------------------|
@@ -127,7 +127,7 @@ The interactive notebook guides you through comprehensive demonstrations:
 
 ### Performance Benchmarks
 
-Here's what we measured comparing mycelium networks vs. traditional random networks under a **30% random node removal attack**:
+Here's what I measured comparing mycelium networks vs. traditional random networks under a **30% random node removal attack**:
 
 | Metric                   | Traditional (Damaged) | Mycelium (Healed) | Advantage (Mycelium)                     |
 | :----------------------- | :-------------------- | :---------------- | :--------------------------------------- |
