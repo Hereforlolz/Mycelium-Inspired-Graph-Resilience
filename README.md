@@ -7,16 +7,18 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [The Mycelium Inspiration](#the-mycelium-inspiration)  
+- [The Mycelium Inspiration](#the-mycelium-inspiration)
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
 - [Quick Start](#quick-start)
 - [Notebook Experiments](#notebook-experiments)
-- [Performance Insights](#performance-insights)
+  - [Visualization](#visualization) 
+  - [Performance Benchmarks](#performance-benchmarks) 
 - [Real-World Applications](#real-world-applications)
 - [Future Research](#future-research)
 - [Contributing](#contributing)
 - [Technical Documentation](#technical-documentation)
+- [License](#license)
 
 ## Project Overview
 
@@ -104,6 +106,12 @@ For the full experience with persistent storage:
 
 The interactive notebook guides you through comprehensive demonstrations:
 
+### Visualization
+
+![Mycelium Network Visualization](pathfinding.png)
+![Mycelium Network Visualization](beforehealing.png)
+![Mycelium Network Visualization](afterhealing.png)
+
 ### Core Demonstrations
 - **Network Creation & Visualization**: Generate and inspect complex mycelium-like topologies
 - **Multi-Path Discovery**: Watch the system find redundant routes between nodes
@@ -174,7 +182,7 @@ This project establishes a foundation for exciting research directions:
 
 ## Contributing
 
-We welcome contributions to grow this research network:
+Any contributions to grow this research network IS WELCOME:
 
 - **Bug Reports**: Open an issue for any problems encountered
 - **Feature Requests**: Suggest new bio-inspired algorithms or improvements
