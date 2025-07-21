@@ -1,12 +1,12 @@
-# mycelium_algorithms.py
+# mycelium_algorithm.py
 import networkx as nx
 import random
 from collections import defaultdict, deque # deque not used in the provided algo, but good to keep if from original notebook
 import math # Not used in provided algos, but often in graph math
 
-class MyceliumAlgorithms:
+class MyceliumAlgorithm:
     """
-    Bio-inspired algorithms based on mycelium network behaviors
+    Bio-inspired algorithm based on mycelium network behaviors
     """
 
     @staticmethod

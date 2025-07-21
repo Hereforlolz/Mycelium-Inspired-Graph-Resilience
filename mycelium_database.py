@@ -152,7 +152,7 @@ def create_mycelium_inspired_network(db_instance, num_nodes=20, connection_prob=
 
     return db
 
-# Note: `random` is imported in mycelium_algorithms.py,
+# Note: `random` is imported in mycelium_algorithm.py,
 # but also useful here for `create_mycelium_inspired_network`.
 # You might want to consolidate shared imports or import here as well if needed.
 import random # Added here for create_mycelium_inspired_network
